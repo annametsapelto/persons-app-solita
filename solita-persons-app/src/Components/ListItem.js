@@ -1,5 +1,6 @@
 import React from 'react';
 import data from './Data/names'
+import './ListItem.css'
 
 function ListItem () {
     return (
