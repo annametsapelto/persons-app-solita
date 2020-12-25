@@ -1,4 +1,16 @@
 import React from 'react';
-import Names from './Data/names.json'
+import ListItem from './ListItem';
+
+function Nameslist() {
+    
+      return(
+        <div>
+           <ul>
+               <ListItem/>
+           </ul>
+        </div>
+      )
+    }
+  
 
 export default Nameslist;
