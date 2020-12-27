@@ -2,7 +2,7 @@ import React from 'react';
 
 function Title() {
     return (
-        <h1>Persons</h1>
+        <h1>Most Common First Names at Solita</h1>
     )
 }
 
